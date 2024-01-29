@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(./img/blank-white-notepaper-design-vector_53876-161340.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
